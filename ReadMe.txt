@@ -14,14 +14,9 @@ Check Settings:
 git config --list
 
 --- Getting info from the Web UI -----
-echo "# InitialRepo" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
 git remote add origin https://github.com/GhatakCode/InitialRepo.git
-git push -u origin main
-                
+
+             
 
 -- Changed --
 No video shows how to authorize the local repo to use the remote repo.

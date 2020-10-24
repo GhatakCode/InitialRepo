@@ -24,4 +24,5 @@ git push -u origin main
                 
 
 -- Changed --
-
+No video shows how to authorize the local repo to use the remote repo.
+Here I will show you how to do that.

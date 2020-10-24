@@ -16,8 +16,3 @@ git config --list
 --- Getting info from the Web UI -----
 git remote add origin https://github.com/GhatakCode/InitialRepo.git
 
-             
-
--- Changed --
-No video shows how to authorize the local repo to use the remote repo.
-Here I will show you how to do that.

@@ -16,3 +16,7 @@ git config --list
 --- Getting info from the Web UI -----
 git remote add origin https://github.com/GhatakCode/InitialRepo.git
 
+
+-- List of projects / modules in Node--
+1. A module to perform CI-CD pipeline. 
+2. Leveraging the JS platform to automate activities.
